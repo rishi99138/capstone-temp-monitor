@@ -1,0 +1,16 @@
+[17:42:56] Monitoring started. Press Ctrl+C to stop.
+[17:42:56] Initial state: NORMAL
+[17:42:56] temp = 35.8 C  (state: NORMAL)
+[17:42:57] temp = 36.2 C  (state: NORMAL)
+[17:42:58] temp = 35.7 C  (state: NORMAL)
+[17:42:59] temp = 34.7 C  (state: NORMAL)
+[17:43:00] temp = 33.9 C  (state: NORMAL)
+[17:43:01] temp = 34.1 C  (state: NORMAL)
+[17:43:02] temp = 33.8 C  (state: NORMAL)
+[17:43:03] temp = 33.9 C  (state: NORMAL)
+[17:43:04] temp = 34.5 C  (state: NORMAL)
+[17:43:05] temp = 34.3 C  (state: NORMAL)
+[17:43:06] temp = 34.5 C  (state: NORMAL)
+[17:43:07] temp = 35.1 C  (state: NORMAL)
+[17:43:08] temp = 34.5 C  (state: NORMAL)
+[17:43:09] temp = 34.4 C  (state: NORMAL)
